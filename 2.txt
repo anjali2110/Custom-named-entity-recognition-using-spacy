@@ -1,0 +1,11 @@
+2.
+Zdaly is revolutionizing how the world works by leveraging massive volume of unstructured public data and transforming them into insights using AI and Big Data. Zdaly is funded by the largest Venture Capitalists of US. Our clients are Fortune 500 companies, Tier 1 consulting, and leading Hedge Funds. Learn more at www.zdaly.com.
+The Senior Data Scientist will be part of our core Data Science team and work alongside top Data Scientists from US - MIT, Berkeley, Harvard, IIT, Moscow University, and other top universities of the world.
+It is a great opportunity for someone with Deep Experience in Data Science, and programming.
+Requirements (DO NOT APPLY IF YOU DO NOT MEET THESE REQUIREMENTS):
+Min 3 years of hands on deep experience with Data Science
+Min 3 years of experience with managing large Datasets of several Terrabytes
+Experience with complex clustering and Deep Learning
+Upto speed with the latest advancements in Data Science
+Outstanding programming experience in R or Python
+Graduate from a top university

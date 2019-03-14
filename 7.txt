@@ -1,0 +1,30 @@
+
+7.
+Job description
+Data Scientist
+Guidewire’s Cyence Risk Analytics products help the property & casualty (P&C) industry to model new and evolving risks such as cyber. By combining internet-scale data listening, adaptive machine learning, and insurance risk modeling, Cyence Risk Analytics provides insights that help P&C customers face new risks, take advantage of new opportunities, and develop new products. To learn more about Cyence Risk Analytics, please visit https://www.guidewire.com/products/cyence.
+We are seeking a talented Data Scientist , to join our team in Chennai, India to explore and analyze data at scale.
+Roles & Responsibilities
+Data exploration, analysis and feature extraction
+Using machine learning to extract information from our diverse set of features
+Software engineering and designing data pipelines
+Creating visualizations appropriate for various audience levels
+Working together with cyber analysts, data engineers, modelers, and product managers
+Required Skills
+Degree in a quantitative field (e.g. CS, Statistics, Sciences, Engineering, Economics) with 2-4 years of experience as Data Scientist
+Understanding of various ML techniques (e.g. clustering, anomaly detection, NLP), and the trade-offs between them
+Experience in data analysis, including (a) querying, segmenting and visualizing data to evaluate hypotheses, and (b) communicating impact to both technical and non-technical audiences
+Experience working different types of datasets (e.g. unstructured, semi-structured, with missing information)
+Strong coding ability in Python or R, and SQL
+Ability to think critically and creatively in a dynamic environment, while picking up new tools and domain knowledge along the way
+A positive attitude, and a growth mindset
+Preferred Skills
+Understanding of computer network and cybersecurity
+Experience with Cloud infrastructure (e.g. AWS), and open source data processing frameworks (e.g. Hadoop, Spark, Mongo and Cassandra)
+Graduate level statistics courses such as Generalized Linear Models, Time-Series Analysis, Statistical Learning, Bayesian Statistics
+Why us?
+Cyence is an analytics platform that quantifies the financial impact of cyber risk. Our first market is the insurance industry, where we help our clients understand, assess and manage risks associated with a wide range of cybersecurity events in a data-informed way. Cyence is now a product family within Guidewire Software, but we have retained our startup culture of collaboration.
+We are Guidewire Software, and we're perhaps the best company to work for that you've never heard of. We are proud to be voted a “Top 3” employer on Glassdoor by our own employees, and positioned as a market leader by industry experts like Gartner.  
+We serve the second-largest financial services industry in the world (after banking), worth $2 trillion USD. We build the core applications that companies use to sell insurance policies, settle claims, and bill their customers. We also have a portfolio of products serving the innovative needs of our customers in areas such as data management, digital online portals, and predictive analytics.  
+We serve customers all over the world, helping them handle billions of dollars of business. This is a lucrative and underserved market, and we have grown rapidly through a combination of quality products, excellent service, innovative technology, and a passionate belief in our core values of rationality, collegiality & integrity.
+8.

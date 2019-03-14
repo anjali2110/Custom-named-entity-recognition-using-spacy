@@ -1,0 +1,27 @@
+Job description
+About Data Sciences At Flipkart
+The Data Sciences team at Flipkart is on a mission to build systemic intelligence across Flipkart products and the overarching ecosystem. Being India’s largest online
+marketplace and the most used e-commerce app in India, places Flipkart in a unique position and gives this team a distinctive opportunity — to decipher the richest
+possible data about Indian consumers. Add the dimension of a vast product selection and a proliferating seller base to that and what you get is a multitude of disruptive
+possibilities.
+In a nutshell, the terabytes of daily data compounded in Flipkart’s data centers offer a dynamic mix of numerical, structured, unstructured, image- and audio-based statistics, all set to define shopping in the future.
+What This Job Entails
+The pool of data available at Flipkart forms the foundation to solve some present and predictable challenges for shoppers in India. As a Data Scientist you will be working on:
+Product discovery along with personalization and intent modeling
+Demand shaping and planning
+Heterogeneous networks for consumer, product and seller interactions
+Customer insights
+Catalog enhancement and product insights
+Customer emotion detection and right response matching
+Fulfillment automation
+Optimization of last mile delivery
+Fraud modeling
+Associations And Collaborations
+The Flipkart Data Science team is also leveraging partnerships with Indian and foreign universities — like CMU, IIT's, IISc and IIIT’s — for developing class-leading solutions in the e-commerce sector.
+At Flipkart, the work of a Data Scientist involves collaboration with the engineering and product teams to ensure a holistic outcome at the product delivery. The flat functional structure within Flipkart engineering enables data scientists to focus on excellence and create a deep sense of ownership at every stage of work.
+Working@Flipkart:
+Data Sciences techniques at Flipkart span classification, clustering, matrix factorization,graphical models, networks and graph algorithms, topic modeling, image processing,deep learning and NLP — each one of them being applied across large scale initiatives.
+If you aspire to redefine ‘state-of-the-art’ and create an impact on India’s shopping landscape, Flipkart Data Science Organization offers the podium to solve challenging real-world problems and take a giant leap in your career as a Data Scientist.
+Qualifications And Experience
+B.Tech/M.Tech/PhD in CS/Statistics with demonstrable experience through publications/deployed solutions/projects. Experience of over 8 years.
+20.

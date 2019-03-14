@@ -1,0 +1,34 @@
+Job description
+Merchandising data science team at Walmart Labs is focused on using the latest research in machine learning, statistics and optimization to solve business problems in assortment, pricing and replenishment areas. We build prescriptive models to empower decision-making, work with engineers to build reference architectures and machine learning pipelines in a big data ecosystem. Bespoke machine learning algorithms researched and developed by our team will help Walmart to optimize merchandising operations, business practices and change the way our customers shop.
+The data science community at Walmart Labs is active in most of the Hack events, utilizing the petabytes of data at our disposal, to build some of the coolest ideas. All the work we do at Walmart Labs benefits our operations & our associates, helping Customers Save Money to Live Better.
+Your Opportunity
+As a Staff Data Scientist for Walmart Labs, you’ll have the opportunity to
+Apply and/or develop statistical modeling techniques (such as deep nueral networks and Bayesian models), optimization methods and other ML techniques.
+Develop efficient and scalable models at Walmart scale.
+Collaborate with counterparts in business, engineering and science to find impactful solutions to business problems.
+Define and/or own the model goodness metrics and track the business impact over time.
+Present recommendations from complex analysis to business partners in clear and actionable form, influencing the future plans.
+Your Responsibility
+Manage the continuous improvement of data science and machine learning by following industry best practices and staying up-to-date with and extending the state-of-the-art in Machine Learning Research.
+Integrate data science solutions into current business processes.
+Develop and recommend process standards and best practices in Machine Learning as applicable to the retail industry.
+Mentor peers and junior members and handle multiple projects at the same time.
+Consult with business stakeholders across stores and ecommerce businesses regarding algorithm-based recommendations and be a thought-leader to develop these into business actions.
+Engage and partner with universities, institutes and vendor partners to bring in ideas and innovation into the labs environment.
+Peer review and publish work in top tier ML/AI conferences such as NIPS, ICML, AAAI and COLT
+Participate and speak at various external forums such as research conferences and technical summits.
+Promote and support company policies, procedures, mission, values, and standards of ethics and integrity
+Bachelor's with > 10 years of relevant experience OR Masters with > 8 years of relevant experience OR PhD in Computer Science with > 6 years of relevant experience.
+Experience in analyzing complex problems and translating them to data science algorithms with due attention to computational efficiency and testing at scale.
+Expertise in machine learning, supervised and unsupervised: Forecasting, Classification, Data/Text Mining, NLP, Decision Trees, Adaptive Decision Algorithms, Random Forest, Search Algorithms, Neural Networks, Deep Learning Algorithms and Reinforecement Learning
+Experience in statistical learning: Predictive & Prescriptive Analytics, Web Analytics, Parametric and Non-parametric models, Regression, Time Series, Dynamic / Causal Model, Statistical Learning, Guided Decisions, Topic Modeling
+Experience working with big data - identifying trends, patterns, and outliers in large volumes of data.
+Experience in leading Junior Data Scientists on approach and results.
+Experience with Python and one Object Oriented Programming Language.
+Worked with at least one main stream machine learning framework such as caffe, convNet, Tensor Flow and Torch
+Experience with SQL, relational databases and data warehouse
+Experience with big data platforms - Hadoop(Hive, Pig, Map Reduce, HQL) / Spark / H20
+Domain Knowledge : Merchandising Divisions in Retail.
+Guidewire InsurancePlatform is the P&C industry platform that unifies software, services, and partner ecosystem to power our customers’ business. InsurancePlatform provides the standard upon which insurers can engage their customers, optimize their operations, drive smart decisions, and innovate quickly. We are privileged to serve more than 350 P&C insurers in 32 countries. We invest heavily in R&D to build a technology platform that combines three elements—core processing, data and analytics, and digital engagement—to enhance insurers’ ability to engage and empower their customers and employees.
+Guidewire’s Cyence Risk Analytics products help the property & casualty (P&C) industry to model new and evolving risks such as cyber. By combining internet-scale data listening, adaptive machine learning, and insurance risk modeling, Cyence Risk Analytics provides insights that help P&C customers face new risks, take advantage of new opportunities, and develop new products. To learn more about Cyence Risk Analytics, please visit https://www.guidewire.com/products/cyence. shhameed@guidewire.com
+9.

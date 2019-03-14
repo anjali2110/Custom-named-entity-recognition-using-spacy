@@ -1,0 +1,33 @@
+
+ob description
+Accenture Consulting transforms our clients’ businesses by using our deep industry knowledge to identify their issues and then leveraging Accenture’s capabilities to deliver innovative tailor-made solutions. Join Accenture Consulting and guide our clients—including more than 80% of the Fortune 500—as they transform their organizations to deliver services at the speed and scale the new digital world demands. You’ll use your deep industry knowledge to design and execute business solutions and you’ll have the opportunity to integrate expertise from across Accenture—strategy consulting digital technology and operations—as you bring your vision to life.
+Job Title: Data Scientist
+Job Overview
+Key responsibilities:
+We are looking for a Data Scientist who will support our product sales leadership and marketing teams with insights gained from analyzing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining or data analysis methods using a variety of data tools building and implementing models using or creating algorithms and creating or running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+Responsibilities for Data Scientist
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of product development marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences revenue generation ad targeting and other business outcomes.
+Develop company A or B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Qualifications For Data Scientist
+Strong problem solving skills with an emphasis on product development.
+Experience using statistical computer languages .R SAS Python SLQ etc.. to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques .clustering decision tree learning artificial neural networks etc.. and their real-world advantages or drawbacks.
+Knowledge of advanced statistical techniques and concepts .regression properties of distributions statistical tests and proper usage etc.. and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+We’re looking for someone with 4-7 years of experience manipulating data sets and building statistical models has a Master’s or PHD in Statistics Mathematics Computer Science or another quantitative field and is familiar with the following software or tools:
+Coding knowledge and experience with several languages: C C++ Java
+JavaScript etc.
+Knowledge and experience in statistical and data mining techniques: GLM or Regression Random Forest Boosting Trees text mining social network analysis etc.
+Experience querying databases and using statistical computer languages: R SAS Python SLQ etc.
+Experience using web services: Redshift S3 Spark DigitalOcean etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression simulation scenario analysis modeling clustering decision trees neural networks etc.
+Experience analyzing data from 3rd party providers: Google Analytics Site Catalyst Coremetrics Adwords Crimson Hexagon Facebook Insights etc.
+Experience with distributed data or computing tools: Map or Reduce Hadoop Hive Spark Gurobi MySQL etc.

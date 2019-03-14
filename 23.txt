@@ -1,0 +1,19 @@
+21.
+Job description
+Role:  Data Scientist.
+Location: Bangalore, Chennai, Pune 
+Exp:  5 to 15 years
+Data scientist with a strong background in data mining, machine learning, recommendation systems, big data, and statistics. Should possess signature strengths of a qualified mathematician with the ability to apply concepts of Mathematics, Applied Statistics and Data mining to produce insights through effective visualization, exploratory analyses, and inferential statistics. A strong data engineering background with hands-on technology capabilities is a MUST to own and deliver outcomes.
+A Bachelor or Master’s Degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent experience, 7+ years of industry experience in predictive modelling, data science and analysis, with prior experience in a ML or data scientist role and a track record of building ML or DL models.
+Responsibilities and skills:
+Work with our customers to deliver an ML / DL project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver business impact to the organization.
+Selecting features, building and optimizing classifiers using ML techniques
+Data mining using state-of-the-art methods, create text mining pipelines to clean & process large unstructured datasets to reveal high-quality information and hidden insights using machine learning techniques
+Should be able to appreciate and work on Computer Vision problems – for example, extract rich information from images to categorize and process visual data— Develop machine learning algorithms for object and image classification, Experience in using DBScan, PCA, Random Forests and Multinomial Logistic Regression to select the best features to classify objects.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc. Needs to appreciate deep learning frameworks like MXNet, Caffe 2, Keras, Tensorflow
+Experience working with GPUs to develop models, handling terabyte size datasets
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, mlr, mllib, Scikit-learn, caret etc - excellence in at least one of these is highly desirable
+Should be able to work hands-on in Python, R etc. Should closely collaborate & work with engineering teams to iteratively analyze data using Scala, Spark, Hadoop, Kafka, Storm etc.,
+Experience with NoSQL databases and familiarity with data visualization tools will be of great advantage 
+Compensation
+We offer competitive salary, health benefits, facilities like cab, gym etc. You'll be joining a bunch of geeks who love to innovate.

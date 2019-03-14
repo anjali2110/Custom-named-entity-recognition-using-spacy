@@ -1,0 +1,31 @@
+Position Title - Senior Data Scientist (Marketing Analytics)
+Job Purpose
+The purpose of this role is to bring in the culture of Data aggregation and analysis, from recognizing human patterns in the numbers, to improving the consumer experience via analytics, to finding ways to bring data to achieve organizations Goals & objective
+Key Responsibilities
+Be responsible for scaling our analytics capability across all internal disciplines and guide our strategic direction in regards to analytics
+Translating business needs to technical requirements and implementation
+Organize and analyze large, diverse data sets across multiple platforms
+Identify key insights and leverage them to inform and influence product strategy
+Proactively developing new analyses and insights, to drive decisions and strategies for marketing (customer lifetime modeling, user acquisition, retention, monetization, etc.) and game design
+Building both always-on decision engines and one-off analyses
+Working with all parts of the business to identify analytical requirements and formalize an approach for reliable, relevant, accurate, efficient solutions for those requirements
+Designing and implementing advanced machine learning algorithms
+Deliver concise verbal and written explanations of analyses to senior management that elevate findings into strategic recommendations
+Job Requirements
+Qualifications
+Engineering / Statistics graduate
+Experience
+4+ years experience in analytics
+Knowledge of analytics, machine learning
+Strong Python / R expertise
+Proven track record of designing and building integrations between 3rd party Ad-Tech platforms.
+Deep understanding of the Ad-Tech ecosystem, particularly RTB, SSP, ad serving, ad exchange and header bidding technologies
+Real time high volume systems
+Identifying KPI’s (Key Performance Indicator) in collaboration with other function(Product, Marketing, Engineering etc)
+A/B testing to achieve the KPI’s
+Driving traffic to website, apps
+Understanding conversion rate optimization (CRO) principles and hacks and being able to apply CRO hacks to any businesses
+Prioritizing growth channels
+Scaling and Automating the growth processes
+Knowledgeable about referral marketing and being able to create viral growth
+Startup experience

@@ -1,0 +1,37 @@
+Job description
+JPMorgan Chase is a leading global financial services firm with assets of over $1.1 trillion and operations in more than 50 countries. The firm is a leader in Investment Banking, Financial Services for consumers and businesses, financial transaction processing, asset and wealth management, and private equity. Under the JPMorgan and Chase brands, the firm serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients. Further information about J.P. Morgan is available at http://www.jpmorgan.com/.
+The role is for a Machine Learning Engineer – Lead within the Corporate Machine Learning Engineering and Services function for corporate functions across JPMorgan Chase, including Global Finance, Corporate Treasury, Risk Management, Human Resources, Compliance, Legal, and all functions within the Corporate Administrative Office (CAO). The ML Engineering and Services team will create services and platforms that will provide re-usable components and an end-to-end development to deployment environment to accelerate time-to-market for data science teams.
+The ML Engineer - Lead in Bangalore will be part of a globally distributed team, with data science and engineering partners in New York and EMEA. He/she will lead a team of engineers to productionize robust and scalable ML models, and enable the services to be deployed and integrated into existing business workflow. He/she will also build common ML capabilities used across Corporate based on those models. These capabilities will be delivered in an agile way, on internal open source code base, in a test driven manner. This is an exciting opportunity to work on cutting-edge solutions and have a profound influence on the business processes of a leading global bank.
+Responsibilities
+Build common ML capabilities used across Corporate based on machine learning models
+Lead development of one or more of:
+Next-generation big data based machine learning frameworks and back-end services
+Front-end web applications and back-end services that integrate with other products.
+High-performance processing and analytics applications using Spark
+Robust analytic data pipelines
+Automate and streamline existing processes, procedures, and toolsets
+Innovate new ways of managing, transforming and validating data
+Ensure code paths are unit tested, defect free and integration tested
+Mentor and coach junior team members to build a high-performing team
+Qualifications/ Technical Skills
+BA/BS degree or equivalent experience in Computer Science, Information Technology or related disciplines
+10+ years of exceptional hands-on knowledge of robust software design and development
+Strong Java/ Python programming skills and Web Services (spring boot)
+Experience in Big Data technologies and utilities (Hadoop, Spark SQL, Hive, Impala, Pig, Kafka)
+Expertise in distributed computing and micro services
+Exposure to or interest in ML
+Expertise in designing and implementing scalable solutions in the analytics space
+Experience in building reliable and auditable CICD deployment pipeline using Jenkins
+Exposure working with Cloud based applications
+Proven proficiency with data and variety of databases
+Exposure/competence with Agile Development approach
+Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals
+Financial Services background or experience preferred.
+Experience in developing visualizations in Tableau, R, or other BI platforms
+Experience in creating APIs using R and deploying models in Marketo and Salesforce
+Experience in the high-tech industry
+Independent and critical thinker
+Ability to work directly with diverse people of different backgrounds
+Strong problem-solving skills when faced with disparate data sets
+Strong oral communication skills and ability to present analytical results to non-technical audience
+17.

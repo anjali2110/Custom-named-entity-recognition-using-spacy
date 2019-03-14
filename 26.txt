@@ -1,0 +1,30 @@
+
+Job description
+Experience required – 4- 7 years
+Qualification - Graduates from Premium Institutes
+Responsibilities -
+Identify use cases in the sports domain, especially cricket
+Collaborate with various teams – tech, product, business, data warehousing, etc. to make sure there is an organizational alignment in solving the data science goals for business
+Test hypothesis with data and validate
+Analyze data and bring the output in a consumable form for the stakeholders
+Work hands-on on various analytics problems and provide thought leadership on problems that we are working on
+Map the results to KPIs and track the performance of the model and communicate the findings to the stakeholders – track the whole problem journey and understand how models have improved the existing problem
+Required Skills:
+Min. 2-3  year of database experience with advanced SQL skills)
+Understanding of the sports domain, especially cricket, to identify use cases where analytics can play a major role
+Gathering knowledge about the background of data and various data sources, preparing datasets specific to the use case
+Experience working with complex analytical tools, such as SAS or R
+Experience with data visualization tools, such as Tableau/Spot fire/Qlikview
+Knows MS Excel & PowerPoint
+Ability to communicate insights with a sound business understanding avoiding the technical details
+Strong understanding with data infrastructure, data warehouse, or data engineering
+SKILLS / EXPERIENCE
+Experience level of 5 to 8 years as Data Scientist
+·       Proven experience of working on NLP problems and working knowledge of various tools/frameworks used for building solutions in NLP space
+·       Must have experience of building NLP models from concept level, to production deployment and post-deployment optimizations
+·       Strong problem-solving skills, data structures, and algorithms
+·       Experience with distributed systems handling a large amount of data
+·       Excellent coding skills in any one/more among Python, R, Ruby
+QUALIFICATIONS
+B.Tech/BE /M. Tech/ Ph.D. in Computer Science or equivalent from a reputed college (Tier 1)
+26.

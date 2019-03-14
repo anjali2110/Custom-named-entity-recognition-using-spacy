@@ -1,0 +1,20 @@
+23.
+Job description
+Description
+Data Scientist is a role to build world class Data Science/ business intelligence, analytics, and reporting systems for LMT teams.
+Amazon's Last Mile Data Science team is looking for a Data Scientist to optimize one of the most complex logistics systems in the world. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this position. Experience in the integration of model-based engineering tools and/or multidisciplinary analysis & optimization is also a plus.
+Amazon’s extensive logistics system comprises thousands of fixed infrastructure nodes with millions of possible connections between them. Billions of packages flow through this network on a yearly basis, making the impact of optimal improvements truly unparalleled. This magnificent challenge is a terrific opportunity to understand, model, simulate, optimize, and reshape one of the world's most complex systems.
+Your main focus will be come up with efficient model-based optimization tools, at various levels of fidelity, used in designing our transportation network. You will make the real complexity of our logistics system visible, tangible, and manageable using cutting edge algorithmic methods. You will integrate modeling and simulation capabilities to validate assumptions on the intricate interactions among different elements of our system. You will identify and evaluate opportunities to improve customer experience, network speed, cost, and the efficiency of capital investment. You will improve the capability of systems analyses that use optimization, simulation, and machine learning techniques. You will quantify the improvements resulting from the application of these tools and you will evaluate trade-offs between competing outputs of the system.
+This position requires drive and self-motivation, superior analytical thinking, data-driven disposition, application of technical knowledge to a business context, effective collaboration with fellow Data scientists, software development engineers, and product managers, effective communication of technical designs to technical and non-technical audiences, and close partnership with many stakeholders from operations, finance, IT, and business leadership.
+Basic Qualifications
+PhD / Masters /Bachelor Degree in Data Science, Analytics, Computer Science Engg., Systems Engg., Statistics
+5+ years of experience with relevant technologies, enterprise reporting systems, data analytics.
+5+ years of experience in working as an analytics or data engineering member working with cross functional teams.
+Preferred Qualifications
+Master Degree in Data Science, Analytics, Computer Science Engg., Systems Engg., Statistics with 3+ years of relevant experience
+Experience working with enterprise reporting systems, data analytics.
+Experience working as an Analytics Engineer or Data Scientist working with cross functional teams.
+Experience working with data visualization tools and creating data visualization concepts. (Excel, Tableau, or similar)
+Experience of statistical analysis and tools such as Python, R, or equivalent.
+Familiarity with AWS RedShift and other distributed computing technologies preferred.
+WS RedShift And Other Distributed Computing Technologies Preferred.

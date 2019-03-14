@@ -1,0 +1,37 @@
+10.
+Job description
+Join ABB and work in a team that is dedicated to creating a future where innovative digital technologies allow greater access to cleaner energy.
+ABB is a global technology leader in industrial digitalization. ABB operates in more than 100 countries with about 147,000 employees and $34 billion revenue.
+In India, ABB has been operating for over a century. At present, we have 40 factories at 9 locations that develop best-in-class products bringing together global expertise, with local experience. India is also home to ABB group’s largest engineering design and R&D center, where our engineers work on cutting-edge technologies to develop the future offerings from engineering tools to analytics solutions.
+Industrial Automation Division provides modern solutions for various types of industries. The division consists of eight business units Oil, Gas and Chemicals (IAOG), Process Industries (IAPI), Power Generation (IAPG). Marine and Ports (IAMP), Turbocharging (IATU), Control Technologies (IACT), Measurement and Analytics (IAMA) and Machine & Factory Automation (IAMF). There are 1800+ employees in IA division.
+As a Statistical Modeling - Data Scientist you will be part of Industrial Automation - Digital Organization and will be based in Mumbai / Bengaluru.
+To help the world’s most asset-intensive industries solve their biggest challenges, we are looking for a experts Data Science for developing enterprise solutions for on-premise and cloud platforms like Azure / AWS.
+Tasks
+Develop Machine Learning and Artificial Intelligence based solutions for our Industrial Automation Digital Organization team. In this role the candidate will be in a key position to utilize the latest developments in industrial digitalization, connected devices and systems.
+Develop Machine Learning and Artificial Intelligence based solutions for our Industrial Automation Digital Organization team.
+Create scalable models and algorithms for integrating into proprietary tools and products.
+Analyze the data, understanding of characteristics, evaluate alternate models, validate hypothesis through theoretical and empirical approaches.
+Create statistical and predictive models for equipment monitoring, failure detection, life estimation and life extension.
+Build tools and support structures needed for analyzing data, perform data cleansing, feature selection and feature engineering and organizing experiments in conjunction with best practices.
+Create and deliver proof of solutions utilizing latest technology and tools
+Understand various data structures and apply methods to clean and transform the data.
+Designing and developing statistical models and applications fitting to business requirement.
+Study and transform data science prototypes.
+Perform data mining, pattern recognition, statistical analysis using large structure and unstructured data including time-series, device data, image, documents etc.
+Perform statistical analysis and fine-tuning using test results.
+Living ABB’s core values of safety and integrity, which means taking responsibility for your own actions while caring for your colleagues and the business.
+Requirements
+Proven experience as a Machine Learning, Statistics, Deep Learning, Recommendation system (Prescriptive analytics), Neural Networks and NLP.
+Strong understanding of statistical modeling and its applications to solve business requirements.
+Conceptual understanding of various modeling techniques and Pros & Cons for the approaches.
+Hands on experience with R, Python, Java, Tensorflow and Big data machine learning platforms.
+Understanding of data structures, data modeling and software architecture.
+Knowledge of math, probability, statistics and algorithms.
+Outstanding analytical and problem-solving skills.
+Knowledge of Python, R or Java languages and machine learning libraries.
+Understanding of tools such as Tensorflow, Matlab, Big Data Machine learning libraries .
+Experience in developing solutions for Energy and process industries would be preferable.
+Knowledge of data science tools, techniques and its software engineering lifecycle.
+Strong communication and collaboration skills
+Bachelors / Masters degree from a reputed university.
+Should have an experience of 3 - 8 years in relevant field.

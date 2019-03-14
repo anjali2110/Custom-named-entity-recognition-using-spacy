@@ -1,0 +1,25 @@
+
+4.
+Job description
+Reference Code- Inf_EXTERNAL_10038992_21
+Role Designation- Technology Analyst
+Technical & Professional requirements- Basic Qualifications- - Experience Range- 3-5 years. At least 2 years of experience and excellent understanding of Machine learning techniques and algorithm such as Neural Networks, Naive Bayes, SVM, Decision Forests, etc.,o NLP, text analytics technologies.,o Common data science toolkits, such as R, Python Data Science Libraries, MatLab, etc. Excellence in at least one of these is highly desirable,o Data visualization tools, such as D3.js, GGplot, etc.,o Query languages such as SQL, Hive.,
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.,
+At least 5 years of hands on experience with more than one programming language (Python / Scala/ Java/SQL),Role and responsibilities- - ,
+You will be responsible for delivering high-value next-generation products on aggressive deadlines and will be required to write high-quality, highly optimized/high-performance and maintainable code that your fellow developers love ,
+You will be a core member of a team that does whatever it takes to delight customers, take an iterative and result oriented approach to software development. In this position you will provide best-fit architectural solutions for multi-product, multi-project, multi-industry portfolios providing technology consultation and assisting in defining scope and sizing of work ,
+You will be the anchor in Proof of Concept developments and support opportunity identification and pursuit processes and evangelize Infosys brand ,
+You will collaborate with some of the best talent in the industry to create and implement innovative high quality solutions, lead and participate in sales and pursuits focused on our clients' business needs ,
+You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued ,
+The role involves high end technology and hence would require you to be proficient in coding as well,Location- Bangalore
+Job Locations- Bangalore,Bangalore
+Responsibilites- "
+Ensure effective Design, Development & Validation of activities in line with client needs and architectural requirements.,
+Ensure continual knowledge management.,
+Adherence to the organizational guidelines and processes
+Skills- R, Python, Machine Learning
+Company Description-Infosys is a leading provider of next generation consulting,technology and outsourcing solutions.We are dedicated to helping organizations, 
+build tomorrows enterprise and advance the way the world works Thats why Forbes ranks us 19th among the top 100 most innovative companies. Our employees partner 
+with clients to transform their business - one conversation; one idea; one insight at a time.While we are at it, some things remain unchanged- the unwavering ethics, 
+transparency and respect behind everything we do. We will always be a company powered by intellect and driven by values.So, if your passion is to build solutions that
+ really make a difference to enterprises,the community and your world, Infosys is the right place for you.

@@ -1,0 +1,30 @@
+15.
+Job description
+About The Team
+The Marketing Operations Reporting and Data Science team manage the reporting and analytical analysis aspects of Akamai's marketing organizations. These include such activities as reporting and analyzing key performance metrics, developing segmentation and product propensity approaches, and determine value of marketing activities and potential of deal conversion through marketing actions to drive efficiency gains and optimize resource utilization. The Reporting and Data Science team in Marketing Operations is responsible for business performance metrics, attribution metrics, and predictive models that drive our marketing initiatives.
+About The Job
+Akamai is growing fast, and so is the volume of data we manage. We need someone with the experience to apply sophisticated data analysis techniques in our fast-changing, entrepreneurial environment. If you love being the detective, analyzing business problems, predicting the future, eliminating the status quo, and testing whether your hypotheses were right, then this role is full of opportunity for you.
+This scientist will work closely with Marketing, Sales, Finance, and IT analyzing hierarchical data, predicting and optimizing sales, and determining the best marketing and sales plays and when to launch those plays. A successful scientist in this role will know how to connect and leverage existing, but disparate, data inside and outside of Akamai. An outstanding scientist will see what they are missing, creating and testing out new solutions – including getting your hands dirty, and cleaning data to reveal patterns.
+If you enjoy taking a business problem and turning it into actionable output into a system for others to act on and use, then you’ll like this job. This really isn’t a job for the faint of heart – you must be persistent – you must be someone that never surrenders and never retreats; someone with a “relentless forward motion…Thrilled by small victories, undeterred by setbacks” until finally reaching your goal.
+Responsibilities
+Handle adhoc and unscheduled data science support requests from Sales and Marketing to clarify and further business insight
+* Review and operationalize existing production models to improve performance, scalability, and resource utilization
+* Scope, create, deliver, and implement data transformations to support team initiatives
+* Use critical thinking skills to define and validate ambiguous business objectives and concepts such as addressable market size, customer lifetime value, or predictive lift
+* Communicate technical concepts across diverse organizations
+* Help business leaders in Sales and Marketing formulate critical questions that may be answered through analytics
+* Take initiative to keep up with developments in the field of data science, and to independently learn on the job.
+Basic Qualifications
+BS/BA with 5 years’ experience, or MBA/MA with 3+ years’ experience in business, finance, or statistics, with hands-on experience conducting statistical analyses, including developing and implementing predictive models
+3+ years’ experience with SQL, Linux (PostgreSQL, Oracle, SQL Server), R (R Studio and command line) feature engineering, dimensionality reduction, linear and non-linear regression; experience manipulating and cleaning data
+3+ years’ experience in evaluating and implementing new data sources and analytical solutions
+2+ years’ experience working in a sales or marketing functional team
+2+ years’ experience working with sales and marketing performance data, and solid understanding of marketing and marketing KPIs
+2+ years’ experience with extracting and parsing unstructured data (e.g., XML, JSON).
+1+ years’ experience communicating and presenting insights from complex data to non-technical audiences
+1+ years’ experience and success in working with cross-functional teams (especially IT, sales, services, marketing, finance, and customer support)
+Desired Qualifications
+Proficiency in R Studio Server, R, SQL, Tableau, ETL, Python
+Experience with Spark, Hadoop, and related Big Data technologies
+Experience creating and deploying production statistical and machine learning models
+16.

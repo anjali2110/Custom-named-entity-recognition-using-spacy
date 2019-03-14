@@ -1,0 +1,37 @@
+14.
+Job description
+Job Description
+You and IBM India
+IBM's Purpose is to be essential to our clients, to the world and one another and we are confident that together as IBMers we will drive this purpose. Joining IBM is about joining a culture of openness, teamwork, trust, and the invitation and expectation to have a voice. Join us and Do your Best Work Ever.
+IBM is recognized gold standard for inclusion, reflected in winning, to name few, the 2018 Catalyst Award for advancing women in business, the National Award Best Employer of People with Disabilities and being named one of the top 5 2018 Top Companies for Women Technologists for building an inclusive workplace — We advocate for fairness and equality as everyone is, and always has been, welcome at IBM.
+Business Unit Introduction
+We at IBM Global Business Services (GBS) are a dynamic group of Business, Strategy and Technology professionals - a specific source of market-leading Industry Consulting, Application and Business process management, supported by the industry's most sophisticated outcome-based delivery model. All designed to be the Digital Reinvention partner for leading clients across the world - providing value-led and asset-powered end to end solutions.
+With a global footprint in over 170 countries, we are empowering clients to build upon their tremendous heritage in Application Innovation processes and also transform them to a Cloud, Cognitive and Social centric world. With skills across six sectors and 17 industries, all major service lines and competencies, IBM’s GBS is a promising business unit in itself to be a part of.
+Through our unique global delivery network; IBM offers global expertise coupled with a deep understanding of local capabilities, markets and cultures you could be part of and partner on some great projects with some of the best corporations in the world across geographies.
+Our IBM and Salesforce strategic partnerships strengthens and delivers new solutions to enterprise customers using IBM Cloud and Watson services with Salesforce Quip and Salesforce Service Cloud Einstein. Together we deliver solutions that bring together the power of AI and enable companies to make smarter decisions, faster than ever before.
+Who You Are
+As Data Scientist, you will develop, maintain, evaluate and test big data solutions. You will be involved in the design of data solutions using Artificial Intelligence based technologies like H2O, Tensorflow.
+Skills in designing algorithms, implementing pipelines, validating model performance, and developing interfaces such as APIs. Expertise in working with IBM Watson services using Python Also experience with Spark, Hadoop, SQL (HANA)
+What You Will Do
+You are responsible for designing algorithms and implementation including loading from disparate data sets, pre-processing using Hive and Pig.
+Scope and deliver solutions with the ability to design solutions independently based on high-level architecture.
+Maintain the production systems like Kafka, Hadoop, Cassandra, Elasticsearch
+How we’ll help you grow: 
+You’ll have access to all the technical and management training courses that will help you
+You’ll learn directly from guide developers in the field; our team leads love to mentor
+You have the opportunity to work in many different areas to identify what really excites you
+Required Technical and Professional Expertise
+Minimum 5+ years of experience in IT Industry
+Technology expertise of solutioning in Hadoop, Hive, Spark / PySpark, SQL, Oozie along Data Modelling in Hive
+Experience in programming Languages- Java / Python / Scala and ability to demonstrate micro / macro designing and familiar with Unix Commands and basic work experience in Unix Shell Scripting
+Working knowledge in one NoSQL database like MongoDB/Cassandra/HBase/Couchbase
+Hands-on experience of various Big data architectures like Lambda / kappa with usage of automation / scheduling tool like Oozie or Cronacle or any other technology
+Proven ability in solutioning covering data ingestion, data cleansing, ETL, data mart creation and exposing data for consumers
+Preferred Tech And Prof Experience
+Hands-on 2 years’ experience in real time Big Data projects is preferred
+Working knowledge with one cluster manager like Cloudera Manager or Ambari
+Ambitious individual who can work under their own direction towards agreed targets/goals.
+Ability to manage change and be open to it good time management and an ability to work under stress
+Proven interpersonal skills while contributing to team effort by accomplishing related results as needed
+Maintain technical knowledge by attending educational workshops, reviewing publications
+15.

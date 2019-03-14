@@ -1,0 +1,29 @@
+Job description
+ThoughtWorks India is looking for talented Data scientists passionate about building large scale Machine Learning Solutions to help manage the ever-growing information needs of our clients.
+Education : MS or equivalent in Applied mathematics, statistics, physics, computer science or operations research background is a MUST. Minimum of 8 years of total experience and 5+ years as Data Scientist in real-time projects
+Skills
+Passion for understanding business problems and trying to address them by leveraging data - characterized by high-volume, high dimensionality from multiple sources
+Ability to communicate complex models and analysis in a clear and precise manner
+Experience with building predictive statistical, behavioral or other models via supervised and unsupervised machine learning, statistical analysis, and other predictive modeling techniques.
+Experience using R, Python or equivalent statistical/data analysis tools. Ability to transfer that knowledge to different tools
+Experience with matrices, distributions and probability
+Proficiency with relational databases and NoSQL
+Experience in Machine Learning, Deep Learning solution,, Neural Networks and Natural language processing.
+Experience with Map/Reduce, Hadoop, Hive etc. is a plus
+Experience in consulting skills
+Responsibilities
+Has worked in a big data environment before alongside a big data engineering team (and data visualization team, data and business analysts)
+Translate client's business requirements into a set of analytical models
+Perform data analysis (with a representative sample data slice) and build/prototype the model(s)
+Work with the client's business users and/or data scientists to define and close on the model design
+Provide inputs to the data ingestion/engineering team on input data required by the model, size, format, associations, cleansing required
+Identify/Provide approach and data to validate the model(s)
+Collaborate with a technology/data engineering team to transfer the business understanding, get the model productionized and validate the output along with business users
+Tune the model(s) to improve results provided over time
+Understand business challenges and goals of a client to formulate the approach for data analysis and model creation that will support their business decision making
+Do hands-on data analysis and model creation and proactively mentor other team members
+Work in highly collaborative teams that strive to build quality systems and provide business value
+Work closely with clients, both in the Business Domain and with Technical staff members
+Have the opportunity to work in a number of different domains in a variety of different client environments
+Travel to work at client sites and other ThoughtWorks offices. This may include international travel
+Continually learn, mentor and develop your career

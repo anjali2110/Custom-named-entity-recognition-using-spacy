@@ -1,0 +1,30 @@
+
+24.
+mfine’s approach is to aggregate primary care demand onto a digital platform and create a hyper local care delivery network of providers. Branded clinics/hospitals, particularly the mid-sized ones, view this as the ‘Cloud Clinic’ they are looking for and missing today.
+Uniqueness of mfine:
+There are 4 fundamentally differentiated capabilities of mfine platform
+Its hospital lead and not individual doctor lead - so , better, maturity of processes, quality, and brand trust
+Remote diagnosis and treatment with data : devices, and home vitals and sample collection
+Scalable with care team concept. 24x7 care team for case prep, case follow up and all front-ending with the consumer
+Increased Doctor Productivity with use of AI driven apps/tools for the doctors - both the Sr.Consultants and as well as care team doctors.
+About Founders:
+Prasad and Ashutosh are technology entrepreneurs and have built and run large businesses and teams. Ashutosh was the Co-founder of Myntra and was pretty much involved in every part of the business through the last 10 years. Prasad was the Chief Business Officer of Myntra and was instrumental in shaping Myntra’s strategy and growth over the last 4-5 years. Both are technologists and led Myntra through industry shaping moves, be it building a premium consumer brand, leading the way in m-commerce or creating growth with technology and consumer experience. They grew passionate about consumer internet opportunities in India as they built Myntra to be a billion dollar online fashion platform from ground up.
+mfine is the venture they started after moving on from Myntra in Jan 2017. They have put together a very strong initial team that brings with it technology, business and healthcare experience/expertise.
+[Platform] mfine’s platform manifests into a consumer app and a care team app (for doctors and care team). The apps are powered with AI/BOTs that enrich the interaction between the consumers and doctors, make the clinic workflows efficient and deliver a proactive care experience for the users with personalized information/notifications. The App is the go to place for all data for the consumers and providers - be it historical records or real time streaming from connected health devices. At the backend of the apps is the integration with provider network that enables smooth admin & operations between mfine and each provider.
+Company Details:
+Industry: Healthcare
+Company Incorporation: Feb 2017
+No of Employees: 130
+Geography: Bangalore
+Founders:
+Prasad Kompalli (CEO & Co-founder) : https://www.linkedin.com/in/prasadkompalli/
+Ashutosh Lawania (Co-founder) : https://www.linkedin.com/in/lawania/
+Ajit Narayanan (CTO) : https://www.linkedin.com/in/ajitnarayanan/
+JD of Data Scientist (NLP) 
+Here are some areas where based on your choice & experience you would be working on:
+Be the AI champion in the team, own the AI model’s success from concept level to production deployment and successful optimization
+Build/Enhance NLP/ML models for various components within our NLP stack (see our current stack)
+Scaling/Optimizing AI models for various verticals, languages, and clients
+Bring in a greater degree of reinforcement learning capability to all AI components in the platform
+Stay current with the latest research in AI space, relevant to our platform, and lead the effort to experiment/apply them to help constantly improve the platform
+25.

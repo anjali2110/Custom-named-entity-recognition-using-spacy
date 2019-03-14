@@ -1,0 +1,20 @@
+
+Job description
+Short Description:
+As a data scientist, you’d be working towards developing cutting edge products and solutions that are based on state of the art machine learning algorithms. You will be joining the 247s’ core R&D team, which is based in Bangalore. The core R&D team works on real-world challenging problems in the web-analytics domain.
+Some of the attractive pluses of the job are:
+The opportunity to work with a world class team of talented data scientists with strong background in machine learning, and who are extremely passionate about solving real-world applied problems in the web-analytics domain.
+A real opportunity to expand your skill-sets and a chance to learn and use the latest advances and approaches in machine learning and data mining on real world datasets
+A big plus is the opportunity to play and work with what are really ‘big-data’ datasets.
+Working in a university like work-environment where you are expected to be self-motivated and are measured on your performance.
+Detailed Description:
+In this role, you will be required to have the following skills:
+Intermediate to advanced knowledge of machine learning, probability theory, statistics and algorithms. You will be required to discuss and use various algorithms and approaches on a daily basis.
+Extremely strong programming skills: Since most of the core R&D teams’ work involves solving problems in the big-data domain, preparing datasets for algorithmic exploration is a significant part of the job. You should have strong programming skills (preferably in python), in order to play around with the raw data, and also for deploying various algorithms
+Strong analytical skills: We seek individuals who try to look at a problem from various angles, and who have deep analytical skills to understand, grasp and discuss deeply technical and significantly complicated problems, and the solutions that the R&D team is working on.
+Minimum Requirements (Educational Qualification & Work Experience)
+Candidates from a reputable institution like IITs, IISc, or equivalent
+1-4 years of work experience in machine learning and data mining domain, where you have been actively involved in industry research. We will be willing to talk to exceptionally qualified freshers too.
+Competency Requirements:
+You should be self-motivated to solve interesting research problems that have a huge business and revenue potential. The core R&D team works in a university like environment, where you are encouraged to become self-reliant and be passionate about the problems that you are working on.
+Strong communication skills are needed. You should be able to explain and discuss deeply technical stuff on a day to day basis. The ability to understand others, as well as having the communication skills to discuss science on a daily basis is an absolute requirement.

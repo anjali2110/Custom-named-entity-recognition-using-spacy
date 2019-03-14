@@ -1,0 +1,31 @@
+29.
+Job description
+General Mills is reshaping the future of food. We believe food makes us better. It nourishes our bodies, brings us joy and connects us to each other. As one of the world's leading food companies, General Mills operates in more than 100 countries and markets more than 100 consumer brands, including Cheerios, Nature Valley, Betty Crocker, Yoplait, Annie's Homegrown, Old El Paso, Epic Provisions, Blue Buffalo and more. Are you passionate about the future of food? You've come to the right table. We want the very best talent to help lead something big.
+General Mills is seeking a Data Scientist to join a new data science team in the Global Business Solutions (shared services organization) that is tasked with collaborating with and enabling existing functional data science and analytics teams. This team also provides data science expertise and services to advance initiatives around demand forecasting, text classification, operational analytics, and machine learning to name just a few. It is also responsible for curating a community of practice to determine the best standards and practices around data science at General Mills
+Develop novel ways to help business partners achieve objectives through analysis & modelling
+Think outside the box to identify & test new sources of information that unlock new business value
+Curate and connect external data sets for broad enterprise-wide analytic usage
+Be a storyteller to explain the ‘why & how’ of your data driven recommendations to cross-functional teams
+Engineer features by using your business acumen to bin, aggregate, pivot or encode data for optimal results
+Utilize machine learning to create repeatable, dynamic & scalable models
+Have passion to advocate and educate on the value and importance of data driven decision making & analytical methods
+Identify and develop long-term data science processes, frameworks, tools, and standards
+Be a part of the team, collaborate, ask questions, engage and solicit feedback from other Data Scientists
+Consultation, Collaborates with technical teams like development and infrastructure.
+Able to explore, troubleshoot on niche technologies and provide automation solutions\
+Experienced in proposing ROI based solutions to business 
+Qualification: Any Graduate (Preferred Statistical background)
+Experience - 6+ yrs
+Statistical analysis, modeling, clustering and data mining techniques to identify trends and insights
+Mathematical or statistical background required
+Ability to incorporate a variety of data sources in an analysis (HDFS, file, database, JSON, HTML, etc)
+Understanding of data warehousing & databases is critical
+Number sense, ability to identify questionable data, dig in & address it
+Experience with Hadoop, Hive, and/or Spark a plus
+Bias for action with ability to deliver outstanding results through task prioritization & time management
+Exemplary organizational skills with attention to detail & accuracy
+Experience with machine learning a plus
+Experience with data visualization tools
+Experience writing complex SQL queries
+Experience with Python & R, comfortable working with DataFrames
+Strong communication and collaboration skills to understand customer needs and deliver solutions in alignment with business needs 

@@ -1,0 +1,20 @@
+
+6.
+Job description
+Job Code
+Data Scientist
+Key Responsibilities
+Understand the key end to end analytics of project requirements and scoping the existing & new requirements
+Assessing the quality & comprehensiveness of data
+Analyzing KPI’s of key business functions like sales & marketing and supply chain
+Work with Data architects to create and evolve dashboard templates
+Set data standards for enhancing data maturity for analytics
+Data pre-processing, modelling & post-processing of data
+Comfortable with basic statistical principles and apply them with the data sets
+Machine Learning: Ability to work with algorithms, understand, interpret and devise your own algorithm for the business problem
+Selection of right algorithms (Regression, Naïve Bayes and Random Forest)
+Job Requirements And Skills
+Data modelling Skills: SQL, Python and analytics model building using Machine Learning
+Data visualisation skills: Power BI / Tableau / Qlikview / Cognos
+Big Data: Spark, Hive
+ETL Domain: Automotive / Non-Automotive (Industrial Manufacturing/Retail/Energy & utilities, Finance)

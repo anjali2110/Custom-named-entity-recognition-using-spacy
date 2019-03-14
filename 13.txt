@@ -1,0 +1,23 @@
+As a part of this, we need experienced individuals focusing on research and development of methods for processing huge amount of content.
+What You Get To Do In This Role
+Develop algorithms that utilize deep learning and traditional methods in NLP and computer vision
+Create experiments, algorithms and prototypes that not only yield high-accuracy but are also designed and engineered to scale.
+Collaborate across multiple research and engineering disciplines, making the tradeoffs required to rapidly deliver software solutions
+In order to be successful in this role, we need someone who has:
+8+ overall industry experience with atleast 4+ years in applying AI/ML principles to real world applications.
+Broad NLP knowledge: tokenisation, part-of-speech tagging, dependency parsing, syntactic parsing, word sense disambiguation, topic modeling; contextual text mining, Word embedding
+Broad Computer Vision knowledge:
+Construction, Feature detection, Segmentation, Classification
+object detection, tracking, localisation, classification, recognition, scene understanding
+Face detection / alignment / recognition /tracking /attribute recognition/expression analysis.
+Video stabilization/ denoising / super-resolution / stitching / enhancement
+Broad Machine Learning experience - Algorithm Evaluation, Preparation, Analysis, Modeling and Execution
+Exposure to Deep Learning - CNNs, LSTMs, network architecture, network tuning, transfer learning, multi-task learning
+Experience in using Tensorflow, Caffe and/or other neural network development frameworks.
+Exposure to Open source NLP libraries e.g. NLTK, Regex, Stanford NLP, OpenNLP/CoreNLP
+Exposure to AWS/Azure/GPU is a plus
+At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely.
+If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
+Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, religion, age, sexual orientation, gender identity, disability or veteran status.
+Demonstrated ability to propose novel solutions to problems, performing experiments to show feasibility of their solutions and working to refine the solutions into a real-world context
+Strong analytical, written, and verbal communication skills

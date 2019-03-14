@@ -1,0 +1,40 @@
+Job description
+At Micro Focus, everything we do is based on a simple idea: The fastest way to get results is to build on what you have. Our software solutions enable organizations to do just that. Secure and scalable, with analytics built in, they bridge the gap between existing and emerging IT—fast-tracking digital transformations across DevOps, Hybrid IT, Security, and Predictive Analytics. In the race to innovate, Micro Focus customers have the clear advantage.
+Our Portfolio Spans The Following Areas
+DevOps | IT Operations| Cloud | Security | Info Governance | Big Data, Machine Learning, & Analytics
+We are looking for experienced data scientists with strong advanced analysis and machine learning model development experience. Data scientists will be working with a team of technical experts on the development of a scalable, real time, big data analytics solutions with data visualizations leveraging the latest technologies. The ideal candidate will have a proven track record of solving large, complex big data challenges, and developing machine learning models to address emerging cybersecurity requirements. Responsibilities will include the analysis of the data to uncover the useful and valuable information and finally supporting the engineering team to build the results into the end product.
+You will be working with an experienced team of data scientists and technical experts, and be part of the Security, Risk, and Governance (SR&G) solutions Centers of Excellence (COE). This position is responsible for the design, architecture, development, and implementation of emerging Security and Operations use cases, and partner with R&D engineers to productize the same to support go-to-market initiatives.
+Responsibilities
+Collaborate with a multi-disciplinary team of engineers and analysts on a wide range of cybersecurity problems.
+Bring analytical rigor and statistical methods to the challenges of measuring quality, improving security products, and understanding the behavior of end-users, computer systems, and network devices.
+Build innovative predictive analytics and data science solutions for a myriad of cybersecurity problems.
+Multi-task and work independently
+‘Think like an adversary’
+Identify and articulate risks and remediation in a relevant and approachable manner with both technical and non-technical audiences.
+Identifies data sources, collects, transforms and prepares large amounts of data for analysis. May also develop tools to help the data collection process as needed.
+Uses appropriate methods, tools and algorithms to analyze the data and create an implementation plan from the business problem.
+Validates the results of the data analysis to avoid errors.
+Interprets results and identifies value form the analysis to help solve the business problems. Works with the business or customer and provides guidance on risks and limitations.
+Monitors and continuously improves the data sources, usability and data mining results.
+Education And Experience
+Bachelor's or Master's degree in Computer Science, Statistics or similar quantitative field
+3-5 years of working experience in machine learning and data science projects;
+2-3 years of experience in working with large scale production data sets
+Good understanding of the foundations of machine learning methods
+Exceptional coding skills in SQL, and Python or R
+Excellent communication skills
+Must Have
+Knowledge and Skills
+Experience with deep learning methods, models and frameworks
+Familiarity with multiple programming and scripting languages (such as, Java, Javascript, C/C++, Perl, etc.)
+Familiarity with data visualization tools
+Experience with passive and active measurement techniques
+Experience with applying statistical modeling, machine learning and data mining algorithms to business problems.
+Profound understanding of big data systems
+High Want
+Background in statistics
+Linux System knowledge as user and administrator
+Experience with Vertica or other column store databases is a plus
+Experience in cybersecurity, network data
+Knowledge of networking concepts and devices (Firewalls, Routers, Switches, and Load Balancers)
+Knowledge of network and web related protocols (such as, TCP/IP, UDP, IPSEC, HTTP, HTTPS, DNS, SSH, routing protocols)

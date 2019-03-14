@@ -1,0 +1,31 @@
+1.
+ABOUT:
+Hangar India is looking for a talented Data Scientist, who is responsible for the development of digital creative using industry standard technologies and applications. He/she codes the creative within the guidelines of interactive best practices and with emphasis on maintaining aesthetics.
+WHAT YOU’LL DO:
+Deliver impactful analyses of assigned projects with high quality, on-time, and within estimated hours 
+Review data for insights, trends, and makes key observations
+Solve problems by thinking through approaches to the data or analysis
+Participate as a collaborative team member, holding himself/herself and the team accountable for the quality of the output
+WHAT YOU’VE GOT:
+5+ Years of applied analytic experience in a marketing or data driven role, working with marketing database solutions
+Solid understanding of relational & dimensional database models, including ability to break complex processes and methodologies into easy-to-understand explanations for internal clients or team members
+Solid understanding of all aspects of building & maintaining marketing database systems including ETL, merge/purse, household, transactional data processing, promotional history, campaign reporting, etc. is preferred 
+Experience in some or all of the following areas of marketing analysis techniques or areas: segmentation/clustering; predictive analytics; digital/ web analytics; marketing campaign measurement; business intelligence/ data visualization reporting, and/or market research
+Proficient with SAS/SPSS and/or OLAP or data-mining tools
+Proficient with SQL (to join and merge data)
+Proficient in Excel, Word, and Powerpoint
+Experience with Tableau, Domo, Qlik or other major BI software preferred 
+Experience with Web Analytics tools like Google Analytics, Adobe Analytics, etc. preferred
+Strong problem solving skills
+Demonstrated success in analyzing trends, creating reports, and providing actionable data-driven insights
+Ability to manage several projects simultaneously and prioritize appropriately, working within tight deadlines
+Strong interpersonal skills to collaborate with cross-functional teams 
+Strong written and effective communication skills with the ability to communicate findings to different constituents
+Bachelor’s degree; Master’s preferred
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+11.
+Job description
+Job Description
+Job Profile:
+Data Scientist to build delivery of Digital Workplace Support Services - Software Licensing & Management Solutions (SLMS)
+Architect and Developer of Data Analytics solution to integrate products for SLMS
+Understand the DXC go-forward strategies for SLMS
+Engage regularly with offerings from DXC Partners for SLMS
+Create Data Models for Data Analysis around software usage, and how to present those in Dashboards .
+Desired Candidate
+Total Experience – 3-5 Years
+Experience with Data Modeling: Understanding data from different sources, and modeling, transforming the data
+Experience with tools that can be used for data visualization such as: Tableau, Microsoft BI, Domo
+Working on early stage Data analysis and conceptualizing data models and trial data-sets for analysis
+Investigation of multiple data visualization tools and technologies and hands-on testing, comparisons of data outputs
+Hands-on implementation of Data Modeling and Visualization
+Excellent communicator (both verbal and written), strong analytical ability .
+Good To Have
+Cloud service providers for SLMS – Amazon AWS, Microsoft Azure
+Understanding of software volume license agreements
+
+
+
+
+
+
+

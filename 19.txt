@@ -1,0 +1,26 @@
+18.
+Job description
+What the role entails
+Research, implement and deploy advanced statistical models (machine learning, deep learning, time series models)
+Lead the Data Science team as technical lead, delivery lead and mentor
+Build personal networks within the company based on trust, passion for making a difference and positive attitude
+Drive understanding and adoption of Data Science process and programs in the company.
+Thought leadership to formulate business problem into meaningful analytical problems, modifying approach based on deeper understanding of business process
+Mature approach to evaluating model efficacy
+Work closely with Data Management and MIS teams to deploy full stack analytics solutions
+What we are looking for in you
+Deep technical understanding in the field of Advanced Statistical Modelling, Machine Learning, Deep Learning, Time Series Modelling and related technologies.
+Deep experience developing AI models in real-world environments and deploying AI/ML into production applications.
+Passion for creating meaningful impact, with ability to direct technical development with a focus on adoption and process change.
+Demonstrate and communicate a high level of ownership and commitment to achieving results
+Talent for communicating technical results to business stakeholders, convincingly conveying the impact and drivers of the results.
+Experience & Education
+8+ years experience in Data Science/Quantitative modelling
+Proficiency with data mining, mathematics, and statistical analysis
+Advanced pattern recognition and predictive modeling experience
+Advanced programming skills in R/Python
+Thorough understanding of Hadoop ecosystem
+Comfort working in a dynamic, research-oriented group with several ongoing concurrent projects
+Master’s or PHD degree in stats, applied math, or related discipline
+Analytics product delivery experience
+19.
